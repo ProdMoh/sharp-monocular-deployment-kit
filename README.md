@@ -63,9 +63,16 @@ Generate the Code: Open a chat with your AI and type:
 "Using the PRD, Technical Spec, AI coding prompts provided in this repo, scaffold the FastAPI application structure."
 
 ---
-## Prompt used in Prodmoh
+## Prompt used in Prodmoh to generate product spec(PRD)
 
 <img width="621" height="524" alt="Screenshot 2025-12-16 at 8 18 09 PM" src="https://github.com/user-attachments/assets/c11badd6-4d57-49d5-8f78-f9554e7083ed" />
+
+---
+
+## Prompt used in Prodmoh to generate technical spec(TDD)
+
+<img width="696" height="786" alt="Screenshot 2025-12-16 at 8 27 00 PM" src="https://github.com/user-attachments/assets/84049c76-9387-4429-b61d-e2d372404890" />
+
 
 ---
 
