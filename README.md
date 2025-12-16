@@ -76,8 +76,7 @@ Generate the Code: Open a chat with your AI and type:
 
 ---
 
-## 🏗️ Proposed Architecture
-
-The Technical Spec defines an **Asynchronous Worker Pattern** to decouple the API from heavy GPU inference. *Your AI editor will use this diagram to generate the implementation.*
-
-```mermaid
+## How to use:**
+    1.  Download the `ai-context.json` file.
+    2.  **For Cursor:** Copy the contents into your `.cursorrules` file at the root of your project.
+    3.  **For Windsurf/Copilot:** Attach the file as "Context" in your chat window before asking it to generate code.
