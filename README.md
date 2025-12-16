@@ -77,6 +77,6 @@ Generate the Code: Open a chat with your AI and type:
 ---
 
 ## How to use:**
-    1.  Download the `ai-context.json` file.
+    1.  Download the `ai coding prompts.json` file.
     2.  **For Cursor:** Copy the contents into your `.cursorrules` file at the root of your project.
     3.  **For Windsurf/Copilot:** Attach the file as "Context" in your chat window before asking it to generate code.
